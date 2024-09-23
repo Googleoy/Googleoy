@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Gitesh Ghure <br>👀 I’m currently working as DevOps & Cloud Engineer.<br><br>![coder3 (1)](https://github.com/user-attachments/assets/26b4ca3b-6bc6-418c-a50d-755f26d3d36c)
+Hi 👋, I'm Gitesh Ghure <br>👀 I’m currently working as DevOps & Cloud Engineer.<br><br><!-- GIF --><img align="right" height="300" width="300" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" /><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giteshghure10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gitesh-ghure-84aa22265/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/GITESH-GHURE) 
