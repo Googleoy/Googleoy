@@ -13,7 +13,7 @@ Hi 👋, I'm Gitesh Ghure <br>👀 I’m currently working as DevOps & Cloud Eng
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Googleoy&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Googleoy&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Googleoy&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?<br/> username=Googleoy&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Googleoy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
