@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Gitesh Ghure <br>👀 I’m currently working as DevOps & Cloud Engineer. <!-- GIF --><br><img align="right" height="200" width="450" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" /><br>
+Hi 👋, I'm Gitesh Ghure <br>👀 I’m currently working as DevOps & Cloud Engineer. <!-- GIF --><br><img align="right" height="200" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" /><br>
 
 
 ## 🌐 Socials:
