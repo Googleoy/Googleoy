@@ -3,10 +3,8 @@ Hi 👋, I'm Gitesh Ghure <br>👀 I’m currently working as DevOps & Cloud Eng
 <!-- GIF --><br><img align="right" height="200" width="350" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" /><br>
 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giteshghure10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gitesh-ghure-84aa22265) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/GITESH-GHURE) 
-
 
 
 # 💻 Tech Stack:
