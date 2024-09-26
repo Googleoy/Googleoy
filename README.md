@@ -12,7 +12,8 @@ Hi 👋, I'm Gitesh Ghure <br>👀 I’m currently working as DevOps & Cloud Eng
 <div style="display: inline_block">
   <p align="center">
 	<a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=aws,azure,google cloud,kubernetes,docker,prometheus,grafana,linux,mysql,jenkins,git,ansible,ubuntu,maven,terraform,nginx,jira,vs-code,container,gitlab," />
+      <img align="center" src="https://skillicons.dev/icons?
+i=aws,azure,google cloud,kubernetes,docker,prometheus,grafana,linux,mysql,jenkins,git,ansible,ubuntu,maven,terraform,nginx,jira,vs-code,container,gitlab," />
     </a>
   </p>
 </div>
