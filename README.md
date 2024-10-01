@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Gitesh Ghure <br>👀 I’m currently working as DevOps & Cloud Engineer.
-<!-- GIF --> <img align="right" height="300" width="300" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" /> </br>
+<!-- GIF --> <img align="right" height="300" width="350" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" /> </br>
 
 
 💡 Key Skills:
@@ -10,6 +10,7 @@ Hi 👋, I'm Gitesh Ghure <br>👀 I’m currently working as DevOps & Cloud Eng
 🌐 Passionate about CI/CD, Cloud infrastructure, and Containerization (Kubernetes, Docker)  </br>
 📈 Advocate for infrastructure as code (IaC) and DevSecOps practices </br>
 📚 Lifelong learner, currently diving into [AWS, Terraform,Docker, kubernetes, Jenkins CICD, OpenShift] </br>
+
 
 
 # 💻 Tech Stack:
