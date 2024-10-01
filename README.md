@@ -5,11 +5,11 @@ Hi 👋, I'm Gitesh Ghure <br>👀 I’m currently working as DevOps & Cloud Eng
 
 💡 Key Skills:
 
-🔧 DevOps Engineer | Automation Enthusiast
-🚀 Bridging the gap between development and operations for seamless software delivery.
-🌐 Passionate about CI/CD, Cloud infrastructure, and Containerization (Kubernetes, Docker).
-📈 Advocate for infrastructure as code (IaC) and DevSecOps practices.
-📚 Lifelong learner, currently diving into [AWS, Terraform,Docker, kubernetes, Jenkins CICD, OpenShift, ].
+🔧 DevOps Engineer | Automation Enthusiast </br>
+🚀 Bridging the gap between development and operations for seamless software delivery </br>
+🌐 Passionate about CI/CD, Cloud infrastructure, and Containerization (Kubernetes, Docker)  </br>
+📈 Advocate for infrastructure as code (IaC) and DevSecOps practices </br>
+📚 Lifelong learner, currently diving into [AWS, Terraform,Docker, kubernetes, Jenkins CICD, OpenShift] </br>
 
 
 # 💻 Tech Stack:
