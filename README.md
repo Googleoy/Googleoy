@@ -39,7 +39,6 @@ Hi 👋, I'm Gitesh Ghure <br>👀 I’m currently working as DevOps & Cloud Eng
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cschindlbeck&style=flat&color=blue" alt="cschindlbeck_profileviews" />
-  <img src="https://badges.strrl.dev/years/cschindlbeck?style=flat&color=blue" alt="cschindlbeck_years" />
 </p>
 
 ## 🏆 GitHub Trophies
